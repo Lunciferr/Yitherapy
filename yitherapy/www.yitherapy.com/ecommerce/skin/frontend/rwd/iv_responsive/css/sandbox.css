@@ -1,0 +1,23 @@
+#rot #iv_ecom_wrp .button span { border-color: transparent; }
+#rot #iv_ecom_wrp p { line-height: 30px; }
+#rot #iv_ecom_wrp h1 { letter-spacing: 0; }
+#rot #iv_ecom_wrp .button { float: none; }
+#rot #iv_ecom_wrp h1,
+#rot #iv_ecom_wrp h2,
+#rot #iv_ecom_wrp h3,
+#rot #iv_ecom_wrp h4,
+#rot #iv_ecom_wrp h5,
+#rot #iv_ecom_wrp h6,
+#rot #iv_ecom_wrp p,
+#rot #iv_ecom_wrp a,
+#rot #iv_ecom_wrp div,
+#rot #iv_ecom_wrp span,
+#rot #iv_ecom_wrp button,
+#rot #iv_ecom_wrp input,
+#rot #iv_ecom_wrp textarea,
+#rot #iv_ecom_wrp select,
+#rot #iv_ecom_wrp table {
+  color: inherit;
+  background-color: transparent;
+}
+

@@ -1,0 +1,87 @@
+@media only screen and (min-width: 771px) {
+  #rot #iv_ecom_wrp #header-search {
+    top: 40px;
+  }
+  #rot #iv_ecom_wrp .page-header {
+    min-height: 80px;
+  }
+  #rot #iv_ecom_wrp #header-nav {
+    margin-top: 70px;
+  }
+}
+#rot #iv_ecom_wrp .products-grid .actions {
+  padding-top: 0;
+}
+#rot #iv_ecom_wrp .products-grid .actions .add-to-links {
+  padding-top: 5px;
+}
+#rot #iv_ecom_wrp .std ul.featured-products-grid li {
+  margin-left: 0;
+}
+#rot #iv_ecom_wrp .featured-products-grid > li {
+  float: left;
+}
+#rot #iv_ecom_wrp .std .price-box p {
+  margin-bottom: 0;
+}
+#rot #iv_ecom_wrp .std ul.featured-products-grid,
+#rot #iv_ecom_wrp .std ul.featured-products-grid ul.add-to-links {
+  list-style: none outside none;
+}
+#rot #iv_ecom_wrp .shipping .form-list .shipping-region { width: 43%; }
+#rot #iv_ecom_wrp .shipping .form-list .shipping-postcode { width: 16%; }
+#rot #iv_ecom_wrp .std ul.messages,
+#rot #iv_ecom_wrp .std ul.messages ul {
+  list-style: outside none none;
+}
+#rot #iv_ecom_wrp .btn-remove:after { line-height: 15px; }
+#rot #iv_ecom_wrp ol.nav-primary a { text-transform: uppercase; }
+#rot #iv_ecom_wrp .wrapper .button {
+  background: none repeat scroll 0 0 #3399cc;
+  color: #ffffff;
+  border: 0 none;
+  display: inline-block;
+  font-size: 13px;
+  font-weight: normal;
+  line-height: 19px;
+  padding: 7px 15px;
+  text-align: center;
+  text-transform: uppercase;
+  vertical-align: middle;
+  white-space: nowrap;
+  margin: 0;
+}
+#rot #iv_ecom_wrp .wrapper .button:hover {
+  background: #2e8ab8;
+  cursor: pointer;
+}
+#rot #iv_ecom_wrp .wrapper .button:active {
+  background: #297aa3;
+  color: #FFFFFF;
+}
+#rot #iv_ecom_wrp .wrapper .button:focus {
+  background-color: #297aa3;
+  outline: none;
+  color: #FFFFFF;
+}
+#rot #iv_ecom_wrp .wrapper .button.disabled {
+  background: #C8C8C8;
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+#rot #iv_ecom_wrp .product-image,
+#rot #iv_ecom_wrp .no-touch .product-img-box .product-image:not(.zoom-available):hover {
+  border: 0 none;
+}
+#rot #iv_ecom_wrp:not(.opc-has-progressed-from-login) .opc.opc-firststep-login .section:not(#opc-login) .step-title,
+#rot #iv_ecom_wrp:not(.opc-has-progressed-from-login) .opc-block-progress-step-login {
+  opacity: 1;
+}
+@media only screen and (min-width: 771px) {
+  #rot #iv_ecom_wrp #nav li:hover > ul { display: block !important; }
+  #rot #iv_ecom_wrp #nav li:hover > ul a { color: #000; }
+}
+#rot #iv_ecom_wrp .nav-primary {
+  position: relative;
+  z-index: 100000;
+}

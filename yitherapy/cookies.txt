@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+yitherapy.com	TRUE	/	FALSE	1999999999	iv_live_session	ef897d46b6267a4b2d5726fbe8764053b5bdfba2
+www.yitherapy.com	TRUE	/	FALSE	1999999999	frontend	55u92g2j7bm4gqatikgslijig2
+
